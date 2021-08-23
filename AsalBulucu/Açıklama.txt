@@ -1,0 +1,1 @@
+Buradaki kodda kullanıcının girdiği iki sayı arasındaki asal sayılar bulunuyor.
